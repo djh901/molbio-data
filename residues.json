@@ -1,98 +1,98 @@
 {
-    'Ala': {
-	'abbrev1': 'A',
-	'abbrev3': 'Ala',
-	'fullname': 'Alanine' },
-    'Arg': {
-	'abbrev1': 'R',
-	'abbrev3': 'Arg',
-	'fullname': 'Arginine' },
-    'Asn': {
-	'abbrev1': 'N',
-	'abbrev3': 'Asn',
-	'fullname': 'Asparagine' },
-    'Asp': {
-	'abbrev1': 'D',
-	'abbrev3': 'Asp',
-	'fullname': 'Aspartic acid' },
-    'Cys': {
-	'abbrev1': 'C',
-	'abbrev3': 'Cys',
-	'fullname': 'Cysteine' },
-    'Gln': {
-	'abbrev1': 'Q',
-	'abbrev3': 'Gln',
-	'fullname': 'Glutamine' },
-    'Glu': {
-	'abbrev1': 'E',
-	'abbrev3': 'Glu',
-	'fullname': 'Glutamic acid' },
-    'Gly': {
-	'abbrev1': 'G',
-	'abbrev3': 'Gly',
-	'fullname': 'Glycine' },
-    'His': {
-	'abbrev1': 'H',
-	'abbrev3': 'His',
-	'fullname': 'Histidine' },
-    'Ile': {
-	'abbrev1': 'I',
-	'abbrev3': 'Ile',
-	'fullname': 'Isoleucine' },
-    'Leu': {
-	'abbrev1': 'L',
-	'abbrev3': 'Leu',
-	'fullname': 'Leucine' },
-    'Lys': {
-	'abbrev1': 'K',
-	'abbrev3': 'Lys',
-	'fullname': 'Lysine' },
-    'Met': {
-	'abbrev1': 'M',
-	'abbrev3': 'Met',
-	'fullname': 'Methionine' },
-    'Phe': {
-	'abbrev1': 'F',
-	'abbrev3': 'Phe',
-	'fullname': 'Phenylalanine' },
-    'Pro': {
-	'abbrev1': 'P',
-	'abbrev3': 'Pro',
-	'fullname': 'Proline' },
-    'Ser': {
-	'abbrev1': 'S',
-	'abbrev3': 'Ser',
-	'fullname': 'Serine' },
-    'Thr': {
-	'abbrev1': 'T',
-	'abbrev3': 'Thr',
-	'fullname': 'Threonine' },
-    'Trp': {
-	'abbrev1': 'W',
-	'abbrev3': 'Trp',
-	'fullname': 'Tryptophan' },
-    'Tyr': {
-	'abbrev1': 'Y',
-	'abbrev3': 'Tyr',
-	'fullname': 'Tyrosine' },
-    'Val': {
-	'abbrev1': 'V',
-	'abbrev3': 'Val',
-	'fullname': 'Valine' },
-    'Asx': {
-	'abbrev1': 'B',
-	'abbrev3': 'Asx',
-	'fullname': 'Aspartic acid or Asparagine' },
-    'Glx': {
-	'abbrev1': 'Z',
-	'abbrev3': 'Glx',
-	'fullname': 'Glutamine or Glutamic acid' },
-    'Xaa': {
-	'abbrev1': 'X',
-	'abbrev3': 'Xaa',
-	'fullname': 'Any amino acid' },
-    'TERM': {
-	'abbrev1': None,
-	'abbrev3': 'TERM',
-	'fullname': 'termination codon' }
+    "Ala": {
+	"abbrev1": "A",
+	"abbrev3": "Ala",
+	"fullname": "Alanine" },
+    "Arg": {
+	"abbrev1": "R",
+	"abbrev3": "Arg",
+	"fullname": "Arginine" },
+    "Asn": {
+	"abbrev1": "N",
+	"abbrev3": "Asn",
+	"fullname": "Asparagine" },
+    "Asp": {
+	"abbrev1": "D",
+	"abbrev3": "Asp",
+	"fullname": "Aspartic acid" },
+    "Cys": {
+	"abbrev1": "C",
+	"abbrev3": "Cys",
+	"fullname": "Cysteine" },
+    "Gln": {
+	"abbrev1": "Q",
+	"abbrev3": "Gln",
+	"fullname": "Glutamine" },
+    "Glu": {
+	"abbrev1": "E",
+	"abbrev3": "Glu",
+	"fullname": "Glutamic acid" },
+    "Gly": {
+	"abbrev1": "G",
+	"abbrev3": "Gly",
+	"fullname": "Glycine" },
+    "His": {
+	"abbrev1": "H",
+	"abbrev3": "His",
+	"fullname": "Histidine" },
+    "Ile": {
+	"abbrev1": "I",
+	"abbrev3": "Ile",
+	"fullname": "Isoleucine" },
+    "Leu": {
+	"abbrev1": "L",
+	"abbrev3": "Leu",
+	"fullname": "Leucine" },
+    "Lys": {
+	"abbrev1": "K",
+	"abbrev3": "Lys",
+	"fullname": "Lysine" },
+    "Met": {
+	"abbrev1": "M",
+	"abbrev3": "Met",
+	"fullname": "Methionine" },
+    "Phe": {
+	"abbrev1": "F",
+	"abbrev3": "Phe",
+	"fullname": "Phenylalanine" },
+    "Pro": {
+	"abbrev1": "P",
+	"abbrev3": "Pro",
+	"fullname": "Proline" },
+    "Ser": {
+	"abbrev1": "S",
+	"abbrev3": "Ser",
+	"fullname": "Serine" },
+    "Thr": {
+	"abbrev1": "T",
+	"abbrev3": "Thr",
+	"fullname": "Threonine" },
+    "Trp": {
+	"abbrev1": "W",
+	"abbrev3": "Trp",
+	"fullname": "Tryptophan" },
+    "Tyr": {
+	"abbrev1": "Y",
+	"abbrev3": "Tyr",
+	"fullname": "Tyrosine" },
+    "Val": {
+	"abbrev1": "V",
+	"abbrev3": "Val",
+	"fullname": "Valine" },
+    "Asx": {
+	"abbrev1": "B",
+	"abbrev3": "Asx",
+	"fullname": "Aspartic acid or Asparagine" },
+    "Glx": {
+	"abbrev1": "Z",
+	"abbrev3": "Glx",
+	"fullname": "Glutamine or Glutamic acid" },
+    "Xaa": {
+	"abbrev1": "X",
+	"abbrev3": "Xaa",
+	"fullname": "Any amino acid" },
+    "TERM": {
+	"abbrev1": None,
+	"abbrev3": "TERM",
+	"fullname": "termination codon" }
 }
