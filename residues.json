@@ -92,7 +92,6 @@
 	"abbrev3": "Xaa",
 	"fullname": "Any amino acid" },
     "TERM": {
-	"abbrev1": None,
 	"abbrev3": "TERM",
 	"fullname": "termination codon" }
 }
